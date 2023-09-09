@@ -1,0 +1,26 @@
+#EXTINF:1, قناة مغربية1  - دوزيم
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:2, قناة مغربية2 - ميدي1
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w440607652_b978000_DVR_slar.m3u8
+
+#EXTINF:3, قناة مغربية 3 - الأولى 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
+
+#EXTINF:4, قناة مغربية 4 - الأولى-العيون
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:5, قناة مغربية 5 - الأولى-الرياضية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8
+
+#EXTINF:6, قناة مغربية 6 - الأولى-الثقافية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:7, قناة مغربية 7 - الأولى-الإخبارية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8
+
+#EXTINF:8, قناة مغربية 8 - الأولى-السادسة
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:9, قناة مغربية 9 - الأولى-الأمازيغية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8
